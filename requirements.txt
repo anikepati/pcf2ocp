@@ -1,0 +1,7 @@
+python-dotenv
+gitpython
+langchain
+langchain-community
+openai
+jinja2
+click
